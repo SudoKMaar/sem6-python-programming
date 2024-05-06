@@ -1,0 +1,36 @@
+21BCA01 Saurav
+21BCA03 Varun
+21BCA05 Mayank
+21BCA06 Hritik
+21BCA08 Hridyansh
+21BCA10 Alokit
+21BCA11 Raj
+21BCA12 Vishal Kumar
+21BCA13 Ayush
+21BCA14 Kshtij
+21BCA15 Manish
+21BCA16 Roshan
+21BCA17 Samar
+21BCA18 Sagar
+21BCA20 Kajal
+21BCA21 Ankush
+21BCA22 Kapil Pujari
+21BCA24 Pushpak
+21BCA25 Kunal
+21BCA26 Kapil Sejwal
+21BCA27 Bhuvan
+21BCA31 Abhishek Kumar
+21BCA32 Vishal Gaur
+21BCA33 Lakshay
+21BCA42 Harsh
+21BCA43 Moryan
+21BCA44 Deepak
+21BCA45 Vidul
+21BCA46 Khushank
+21BSCS01 Ankit
+21BSCS04 Vikash
+21BSCS05 Aakash
+21BSCS06 Nisha
+21BSCS07 Prince
+21BSCS08 Bhavya
+21BSCS09 Anmol
